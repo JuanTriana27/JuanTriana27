@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Esteban Triana
 
-💻 Frontend Developer | React | Backend Integration (Spring Boot, PHP, APIs REST) | SQL | Web Applications
+💻 Frontend Developer | React | Backend Integration
 🚀 Enfocado en frontend con React + backend con Spring Boot y PHP  
 📍 Cali, Colombia  
 
