@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Esteban Triana
 
-💻 Desarrollador Web Full Stack Junior  
+💻 Frontend Developer | React | Backend Integration (Spring Boot, PHP, APIs REST) | SQL | Web Applications
 🚀 Enfocado en frontend con React + backend con Spring Boot y PHP  
 📍 Cali, Colombia  
 
